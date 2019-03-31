@@ -2,7 +2,7 @@
 Copyright Alex Leone, David Nufer, David Truong, 2011-03-11. kathack.com
 Modified by Thomas Zimmermann, 2019-03-31: Mirror files to work on sites using HTTPS.
 
-javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/ks.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
+javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/kh.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 
 */
 var BORDER_STYLE = "1px solid #bbb",
