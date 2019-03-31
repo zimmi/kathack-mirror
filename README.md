@@ -7,9 +7,19 @@ More specifically, the files making up the bookmarklet itself were copied and mo
 
 The original bookmarklet doesn't support sites using HTTPS, which now is practically all of them.
 
-# Credit
+# Wherewith?
 
-All Credit goes to the original authors!
+Try it out by clicking this link: [Katamari!](javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/ks.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);)  
+Drag it to your bookmarks bar and activate it on any site you wish.
+
+If you want to copy it directly:
+```
+javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/ks.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
+```
+
+# Attribution
+
+All credit goes to the original authors!
 
 
 Copyright Alex Leone, David Nufer, David Truong, 2011-03-11. kathack.com
