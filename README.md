@@ -1,6 +1,6 @@
 # What?
 
-This is an unofficial mirror of the excellent [http://kathack.com](http://kathack.com) created by Alex Leone, David Nufer and David Truong.
+This is an unofficial mirror of the excellent [http://kathack.com](http://kathack.com) created by Alex Leone, David Nufer and David Truong.  
 More specifically, the files making up the bookmarklet itself were copied and modified to load from this github repo.
 
 # Why?
@@ -9,13 +9,11 @@ The original bookmarklet doesn't support sites using HTTPS, which now is practic
 
 # Wherewith?
 
-Try it out by clicking this link: [Katamari!](javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/ks.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);)  
-Drag it to your bookmarks bar and activate it on any site you wish.
-
-If you want to copy it directly:
+Try it out by copying this to your bookmarks:
 ```
 javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/ks.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 ```
+Activate it on any site you wish.
 
 # Attribution
 
