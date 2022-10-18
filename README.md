@@ -13,7 +13,7 @@ Try it out by copying this to your bookmarks:
 ```
 javascript:var i,s,ss=['https://zimmi.github.io/kathack-mirror/kh.js','https://code.jquery.com/jquery-1.5.1.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 ```
-Activate it on any site you wish. ...Except for the ones that have an effective [Content Security Plicy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) that blocks inline scripts, like GitHub.
+Activate it on any site you wish. ...Except for the ones that have an effective [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) that blocks inline scripts, like GitHub.
 
 # Attribution
 
